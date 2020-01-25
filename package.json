@@ -1,27 +1,25 @@
 {
   "name": "noblox.js-server",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "description": "An example server that uses the noblox.js module.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suufi/noblox.js-server.git"
+    "url": "https://github.com/Hamzah-z/noblox.js-server"
   },
-  "author": "Suufi <sd.atrillion@gmail.com>",
+  "author": "H_mzah <https://www.roblox.com/users/14398127/profile>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.7.2",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "noblox.js": "^4.2.6",
-    "validator": "^12.1.0"
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "express-validator": "^6.3.1",
+    "noblox.js": "^4.3.0"
   },
   "bugs": {
     "url": "https://github.com/suufi/noblox.js-server/issues"
   },
-  "homepage": "https://github.com/suufi/noblox.js-server"
+  "homepage": "https://github.com/Hamzah-z/noblox.js-server"
 }
